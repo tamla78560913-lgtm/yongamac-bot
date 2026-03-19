@@ -50,8 +50,8 @@ def send_telegram(message: str):
         "disable_web_page_preview": True,
         "reply_markup": {
             "inline_keyboard": [[
-                {"text": "🎬 CGV 앱 열기", "url": "https://m.cgv.co.kr/Schedule/Movie/MovieList.aspx?cinema=0013
-"}
+                {"text": "CGV 앱 열기", "url": "https://m.cgv.co.kr/Schedule/Movie/MovieList.aspx?cinema=0013"}
+
             ]]
         },
     }
