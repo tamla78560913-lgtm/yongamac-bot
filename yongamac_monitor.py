@@ -10,7 +10,7 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "token")
 TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID",   "chatid")
 
 CHECK_INTERVAL = 2
-TARGET_DATE    = "20260319"
+TARGET_DATE    = "20260326"
 TARGET_MOVIE   = "프로젝트 헤일메리"
 
 CGV_THEATER_CODE = "0013"
